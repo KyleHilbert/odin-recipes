@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(253, 151, 43);
+    color: white;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+h1 {
+    background-color: rgb(196, 127, 0);
+    color: black;
+    width: 445px;
+    border-radius: 25px;
+    padding-left: 20px;
+}
+
+h3 {
+    background-color: rgb(196, 127, 0);
+    color: black;
+    width: 155px;
+    border-radius: 25px;
+    padding-left: 25px;
+}
+
+li{
+    margin: 10px 0;
+  }
+  
+ol,
+ul,
+p {
+    width: 750px;
+    line-height: 1.3;
+}
